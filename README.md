@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
