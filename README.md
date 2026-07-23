@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0977-squares-of-a-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
