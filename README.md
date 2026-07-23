@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0326-power-of-three) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0167-two-sum-ii-input-array-is-sorted) |
