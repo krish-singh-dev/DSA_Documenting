@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
