@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
