@@ -130,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
