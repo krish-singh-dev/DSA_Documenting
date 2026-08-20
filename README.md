@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/krish-singh-dev/DSA_Documenting/tree/master/1920-build-array-from-permutation) |
